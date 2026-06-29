@@ -125,8 +125,7 @@ Robot-Clone/
 │
 ├── app.py
 ├── requirements.txt
-├── assets/
-├── screenshots/
+├── index.html
 └── README.md
 ```
 
@@ -167,6 +166,3 @@ Beyond visualization, the project serves as a foundation for advanced applicatio
 
 ---
 
-# License
-
-This project is intended for educational purposes and demonstrates real-time human pose estimation and robotic visualization using modern Computer Vision techniques.
